@@ -7,7 +7,7 @@
 ## Contact
 
 Email: salimzadehfati@gmail.com  
-LinkedIn: [Fatima Salimzade](https://www.linkedin.com/in/sadiq-meherremli/](https://www.linkedin.com/in/fatima-salimzade-5ab50a2b9/)
+LinkedIn: [Fatima Salimzade](https://www.linkedin.com/in/fatima-salimzade-5ab50a2b9/)
 
 Feel free to reach out if you have any questions or job opportunities.
 
