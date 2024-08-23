@@ -2,7 +2,7 @@
 
 ## Hello, I'm Fatima Salimzade
 
-- 👨‍💻 All of my projects are available at [My Projects]([https://github.com/sadiqmeherremli?tab=repositories](https://github.com/fatimasalimzade?tab=repositories))
+- 👨‍💻 All of my projects are available at [My Projects](https://github.com/fatimasalimzade?tab=repositories)
 
 ## Contact
 
