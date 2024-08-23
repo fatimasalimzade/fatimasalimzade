@@ -12,3 +12,6 @@ LinkedIn: [Fatima Salimzade]([https://www.linkedin.com/in/sadiq-meherremli/](htt
 Feel free to reach out if you have any questions or job opportunities.
 
 ---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
