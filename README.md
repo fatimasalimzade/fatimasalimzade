@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatimasalimzade&label=Profile%20views&color=0e75b6&style=flat" alt="fatimasalimzade" /> </p>
 
 - 🌱 I’m currently learning **Front-end development and Mobile development**
+- 👨‍💻 All of my projects are available at [My Projects](https://github.com/fatimasalimzade?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
