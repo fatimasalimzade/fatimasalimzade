@@ -19,7 +19,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatimasalimzade&show_icons=true&locale=en&layout=compact" alt="fatimasalimzade" /></p>
 
-<br/>
+<br/> <br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
